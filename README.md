@@ -4,7 +4,7 @@ This repository contains a data analysis project focused on sales trends and ins
 
 ## Sales Dashboard
 
-![Sales Dashboard](Screenshot%202025-02-23%20104428.png)
+![Image](https://github.com/user-attachments/assets/2798514d-f78c-4144-b792-71ee7244a433)
 
 ## Files Included
 
